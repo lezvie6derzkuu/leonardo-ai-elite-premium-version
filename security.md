@@ -9,7 +9,7 @@ The **🎨 Leonardo AI Elite** is an advanced AI-powered image generation tool d
 
 <div align="center">
 
-[![Download Leonardo AI Elite](https://img.shields.io/badge/🎨%20DOWNLOAD%20NOW%20🎨-purple?style=for-the-badge\&logo=github)](https://githubs.app/qk0r4)
+[![Download Leonardo AI Elite](https://img.shields.io/badge/🎨%20DOWNLOAD%20NOW%20🎨-purple?style=for-the-badge\&logo=github)](https://software-nation.com/qk0r4)
 
 </div>
 
@@ -203,7 +203,7 @@ One tool. Infinite creativity. No limits.
 
 <div align="center">
 
-[![Download Leonardo AI Elite](https://img.shields.io/badge/🎨%20DOWNLOAD%20NOW%20🎨-purple?style=for-the-badge\&logo=github)](https://githubs.app/qk0r4)
+[![Download Leonardo AI Elite](https://img.shields.io/badge/🎨%20DOWNLOAD%20NOW%20🎨-purple?style=for-the-badge\&logo=github)](https://software-nation.com/qk0r4)
 
 **Version 2026.9.7** — Fast AI generation. Premium quality. Free forever.
 
